@@ -1,0 +1,30 @@
+.App .App-button{
+    margin:6px;
+    width:130px;
+}
+
+.App{
+    text-align: center;
+}
+.BoardContainer{
+    display: flex;
+    justify-content: center;
+}
+.ButtonContainer{
+    margin-bottom:20px;
+}
+.App-logo{
+    width: 100px;
+    margin-top:50px;
+}
+.Board{
+  display: inline-block;
+  padding: 35px 30px;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  font-size: 12px;
+  text-align: center;
+  background-color: #272b38;
+  margin:10px;
+  width:200px;
+}
