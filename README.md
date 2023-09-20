@@ -11,5 +11,5 @@
  - 주사위의 총합 계산
  - 주사위게임의 히스토리 표시
 
-<img src="https://github.com/Wlfjd/DiceGame/assets/103630185/ca338681-96bd-45c0-a7b2-8a9f8f238f2f">
+<img style="border-radius:20px; width:100px;" src="https://github.com/Wlfjd/DiceGame/assets/103630185/ca338681-96bd-45c0-a7b2-8a9f8f238f2f">
 
